@@ -1,6 +1,6 @@
 <?php
 
-echo "Eae boyyy";
+echo "bom dia Ju";
 
 echo "Ola povo"
 
